@@ -1,0 +1,7 @@
+﻿  GameManager.cpp
+C:\Users\tdrob\source\repos\BabyEngine\BabyEngine\GameManager.cpp(23,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  StartScreen.cpp
+C:\Users\tdrob\source\repos\BabyEngine\BabyEngine\StartScreen.cpp(72,58): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\tdrob\source\repos\BabyEngine\BabyEngine\StartScreen.cpp(138,49): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating Code...
+  BabyEngine.vcxproj -> C:\Users\tdrob\source\repos\BabyEngine\x64\Debug\BabyEngine.exe
